@@ -1,0 +1,10 @@
+name: KChat
+author: yKeifuz
+version: 1.0
+main: pt.keifuz.chat.Main
+
+commands:
+  g:
+  s:
+  tell:
+  chat:
