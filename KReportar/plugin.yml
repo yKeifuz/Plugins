@@ -1,0 +1,6 @@
+name: KReportar
+author: yKeifuz
+version: 1.0
+main: pt.keifuz.reportar.Main
+commands:
+  reportar:
