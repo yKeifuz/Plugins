@@ -1,0 +1,6 @@
+name: KVender
+author: yKeifuz
+version: 1.0
+main: pt.keifuz.vender.Main
+commands:
+  vender:
