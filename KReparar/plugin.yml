@@ -1,0 +1,6 @@
+name: KReparar
+author: yKeifuz
+version: 1.0
+main: pt.keifuz.reparar.Main
+commands:
+  reparar:
